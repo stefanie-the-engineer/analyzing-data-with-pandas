@@ -27,4 +27,4 @@ Here we are analyzing video game data. We get data from a CSV file that contains
 ![Most_Popular_Games](../Images/image.png)
 
 ## Most Profitable Video Games
-![Most_Profitable_Games](../Images/image.png)
+![Most_Profitable_Games](Images/Most_Profitable_Items.png)
