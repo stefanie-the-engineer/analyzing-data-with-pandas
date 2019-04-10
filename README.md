@@ -5,7 +5,7 @@ Here we are analyzing video game data. We get data from a CSV file that contains
 ## Number of Players
 ![Number_Of_Players](Images/Total_Players.png)
 
-## Purchasing Analysis - number of unique items, average price, number of purchases, total revenue
+## Purchasing Analysis
 ![Purchasing_Analysis](Images/Total_Summary.png)
 
 ## Gender Demographics - number and percentage of male, female, and non-disclosed
