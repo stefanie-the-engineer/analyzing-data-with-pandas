@@ -3,10 +3,10 @@
 Here we are analyzing video game data. We get data from a CSV file that contains player information including screenname, gender, video games purchased. Using this data, we will use Pandas to calculate the following:
 
 ## Number of Players
-![Number_Of_Players](../Images/Total_Players.png)
+![Number_Of_Players](Images/Total_Players.png)
 
 ## Purchasing Analysis - number of unique items, average price, number of purchases, total revenue
-![Purchasing_Analysis](../Images/Total_Summary.png)
+![Purchasing_Analysis](Images/Total_Summary.png)
 
 ## Gender Demographics - number and percentage of male, female, and non-disclosed
 ![Gender_Demographics](../Images/image.png)
