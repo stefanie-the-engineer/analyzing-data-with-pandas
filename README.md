@@ -15,16 +15,16 @@ Here we are analyzing video game data. We get data from a CSV file that contains
 ![Purchasing_Analysis_Gender](../Images/image.png)
 
 ## Age Demographics
-![Age_Demograhics](../Images/image.png)
+![Age_Demograhics](../Images/Age_Demographics.png)
 
 ## Purchasing Analysis by Age
-![Purchasing_Analysis_Age](../Images/image.png)
+![Purchasing_Analysis_Age](../Images/Purchase_Analysis_Age.png)
 
 ## Top Spenders
-![Top_Spenders](../Images/image.png)
+![Top_Spenders](../Images/Top_Spenders.png)
 
 ## Most Popular Video Games
-![Most_Popular_Games](../Images/image.png)
+![Most_Popular_Games](../Images/Most_Popular_Games.png)
 
 ## Most Profitable Video Games
 ![Most_Profitable_Games](Images/Most_Profitable_Items.png)
