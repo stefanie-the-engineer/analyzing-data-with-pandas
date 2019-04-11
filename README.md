@@ -6,7 +6,7 @@ Here we are analyzing video game data. We get data from a CSV file that contains
 ![Number_Of_Players](Images/Total_Players.png)
 
 ## Purchasing Analysis
-![Purchasing_Analysis](Images/Total_Summary.png)
+![Purchasing_Analysis](Images/Purchase_Analysis_Age.png)
 
 ## Gender Demographics
 ![Gender_Demographics](../Images/image.png)
